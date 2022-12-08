@@ -1,4 +1,4 @@
-account_id = "823a7a9b352ff317b2a4ca9e22c96b8f"
+account_id = "7c6d2213af3133e480523eef14cfdd7e"
 name = "nuxt-cloudflare-workers"
 type = "webpack"
 route = ""
